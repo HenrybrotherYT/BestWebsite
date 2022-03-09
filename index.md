@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="Hi hey why u reading this noob this is a very bad website.">
+        <title>Germany's Site ^^</title>
+    </head>
+    <body style="background-color:lightseagreen;">
+        <header>
+            <nav>
+                <a href="https://silk-rock.github.io/" target="_blank"><h1>Silk Rock <b>Games</b> Site!!!11111<h1></a> <sup>Not sponsored</sup>
+            </nav>
+        </header>
+        <main>
+            <article>
+                <section>
+                    <aside>
+                        <i>Yeah, suck it Amino!!</i>
+                    </aside>
+<h1>hey</h1>
+    <h2>What'cha doing?</h2>
+        <h3> This web is in progress</h3>
+    <h2>Kill Me.</h2>
+<br> <br> <hr>
 
-You can use the [editor on GitHub](https://github.com/HenrybrotherYT/BestWebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+                </section>
+                <section>
 
-### Markdown
+                </section>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+            </article>
 
-```markdown
-Syntax highlighted code block
+        </main>
+        <footer>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+        </footer>
 
-1. Numbered
-2. List
+     <h2>Germany's Site</h2>
+     <br/> <br>
+     <!--  To do: Roast North, Make a commenting sistem, Invest in cheese, Dont Display This plsssssssss okie idk wat im typing anymore but this is my website so HAHAHAHAHAHA LOSER srsly why u still reading this?? Im not a peep >w< Yea baiiiiii   --> 
 
-**Bold** and _Italic_ and `Code` text
+     <p><big>Hello!</big> I am <b>Germany</b>, also formerly known as <i>Nostral</i>. <b><i>This <small>is</small> just a <big>thing</big> i do for fun</i></b></p>
+     <p>Here you will find useless stuff. Seriously, you are wasting ur time ^^</p>
+     <p style="color:rgb(132, 0, 255)"<big>North Sucks!!!</big><sup>tm</sup></p>
 
-[Link](url) and ![Image](src)
-```
+     <p style="color:orange; background-color:blue ;">Colour Test UwU</p>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+     <p><big>School killin' Me.</big></p>
+        <hr>
+     <h1>Welcome To Hell.</h1> 
 
-### Jekyll Themes
+     <header>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HenrybrotherYT/BestWebsite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+        <p>What Will u find here??</p>
+        <p>Silly things for the most part, programs and stuff stuffing stuff.</p>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+     </header>
+
+
+    </body>
+</html>
+
+
+
+
+69
